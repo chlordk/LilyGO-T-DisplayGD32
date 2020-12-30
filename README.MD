@@ -16,6 +16,9 @@
 | SD_MOSI    | PB15            |
 | SD_SCLK    | PB13            |
 | SD_CS      | PB12            |
+| LED_G4 Red | PC13            |
+| LED_G5 Grn | PA1             |
+| LED_G6 Blu | PA2             |
 
 - Copy the files in the `resource` folder to the SD card
 - Quick use reference [get_started](http://longan.sipeed.com/en/get_started/pio.html)
